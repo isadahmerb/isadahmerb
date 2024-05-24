@@ -1,5 +1,6 @@
 ## Hi there 👋 I'm Isa
- > Estudo Ciências da Computação na Universidade do Sul de Santa Catarina
+ > Ciências da Computação na Universidade do Sul de Santa Catarina;
+> Apredendo java 
 <!--
 **isadahmerb/isadahmerb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
