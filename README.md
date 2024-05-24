@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 
 ![isadahmerb's GitHub stats](https://github-readme-stats.vercel.app/api?username=isadahmerb&show_icons=true&theme=midnight-purple).
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isadahmerb&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isadahmerb&layout=compact)
