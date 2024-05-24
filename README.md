@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-![isadahmerb's GitHub stats](https://github-readme-stats.vercel.app/api?username=isadahmerb&show_icons=true&theme=synthwave).
+![isadahmerb's GitHub stats](https://github-readme-stats.vercel.app/api?username=isadahmerb&show_icons=true&theme=midnight-purple).
