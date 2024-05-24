@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 
-![isadahmerb's GitHub stats](https://github-readme-stats.vercel.app/api?username=isadahmerb&show_icons=true&theme=material-midnight-purple).
+![isadahmerb's GitHub stats](https://github-readme-stats.vercel.app/api?username=isadahmerb&show_icons=true&theme=midnight-purple).
