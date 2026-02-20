@@ -6,7 +6,7 @@
 
 <img aligh="left" src="gitart1.1.gif" width="300">
 
-&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## About me
  - 20y.
