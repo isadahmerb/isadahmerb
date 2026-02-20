@@ -1,4 +1,4 @@
-##👋
+## Hi there👋
 
 <hr>  
 <p align="left">
@@ -10,3 +10,7 @@
   <li> 20y. </li>
   <li> Computer Science Student. </li>
  </ul>
+
+<p align="center">
+  <sub><i>I use this GitHub to keep track of my journey, showcasing my knowledge and skills.</i></sub>
+</p>
