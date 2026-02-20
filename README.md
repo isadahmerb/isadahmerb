@@ -1,5 +1,5 @@
 ## Hi there👋
-<hr style="border: 0; height: 1px; background: #30363d;">
+
 <p align="left">
   <img src="gitart.gif" width="200" align="right">
 </p>
