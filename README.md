@@ -4,7 +4,7 @@
 
 <hr>
 
-<img align="left" src="gitart1_1.gif" width="300">
+<img align="left" src="gitart1.1.gif" width="300">
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
