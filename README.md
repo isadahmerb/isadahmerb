@@ -4,7 +4,7 @@
 
 <hr>
 
-<table>
+<table border="5" solid #00FF00; border-collapse: collapse;>
  <tr>
   <td><img src="gitart1.1.gif" width"300"/></td></td>
    <td>
