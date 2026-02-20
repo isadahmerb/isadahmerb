@@ -1,6 +1,6 @@
 ## Hi there👋
 
-<hr>  
+<hr height="1">  
 <p align="left">
   <img src="gitart.gif" width="200" align="right">
 </p>
