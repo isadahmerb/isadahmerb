@@ -4,7 +4,7 @@
 
 <hr>  
 <p align="left">
-  <img src="gitart.gif" width="200" align="left">
+  <img src="gitart.gif" width="200" align="right">
 </p>
 
 ### Sobre mim
