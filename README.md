@@ -5,7 +5,7 @@
 <hr>
 
 <div align="center">
- <img src="gitart1.1.gif" width="400">
+ <img src="gitart1.1.gif" width="200">
 </div>
 
 
