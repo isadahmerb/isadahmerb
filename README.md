@@ -1,7 +1,7 @@
 ## Hi there👋
 
 <p align="left">
-  <img src="gitart.gif" width="200" align="right">
+  <img src="gitart.gif" width="300" align="right">
 </p>
 
 ### I'm Isa
