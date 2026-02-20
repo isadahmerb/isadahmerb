@@ -6,7 +6,7 @@
 
 <table border="5" solid #00FF00; border-collapse: collapse;>
  <tr>
-  <td><img src="gitart1.1.gif" width"150"/></td></td>
+  <td><img src="gitart1.1.gif" width"100"/></td></td>
    <td>
       <h2>About me</h2>
       <ul>
