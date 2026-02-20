@@ -4,15 +4,15 @@
 
 <hr>
 
-<img align="left" src="gitart1.1.gif" width="200">
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-## About me
- - 20y.
- - Studying Computer Science
-
-<br clear="left">
-
-
-
+<table>
+ <tr>
+  <td><img src="gitart1.1.gif" width"300"/></td></td>
+   <td>
+      <h2>About me</h2>
+      <ul>
+      <li>20y</li>
+      <li>Studying Computer Science</li>
+      </ul>
+   </td>
+</tr>
+</table>
