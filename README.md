@@ -4,9 +4,15 @@
 
 <hr>
 
-<div align="center">
- <img src="gitart1.1.gif" width="200">
-</div>
+<img aligh="left" src="gitart1.1.gif" width="300">
+
+&nbsp;
+
+## About me
+ - 20y.
+ - Studying Computer Science
+
+<br clear="left">
 
 
 
