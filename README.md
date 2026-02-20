@@ -5,7 +5,7 @@
 <hr>
 
 <img align="left" src="gitart1.1.gif" width="300">
-<br><br><br><br><br><br>
+<br><br><br><br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## About me
