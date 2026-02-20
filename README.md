@@ -7,5 +7,8 @@
   <img src="gitart.gif" width="200" align="right">
 </p>
 
-### Sobre mim
-Estudante de Ciências da Computação...
+### About me
+ <ul>
+  <li> 20y. </li>
+  <li> Computer Science Student. </li>
+ </ul>
