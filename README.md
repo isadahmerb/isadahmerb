@@ -2,8 +2,10 @@
 
  > Ciências da Computação na Universidade do Sul de Santa Catarina;
 
-<hr>
- <body>
-  <img src="gitart.gif" width"100"/>
- </body>
-      
+<hr>  
+<p align="left">
+  <img src="gitart.gif" width="100" align="left">
+</p>
+
+### Sobre mim
+Estudante de Ciências da Computação...
