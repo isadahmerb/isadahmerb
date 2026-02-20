@@ -11,5 +11,5 @@
  </ul>
 
 <p align="left">
-  <sub>I use this GitHub to keep track of my journey, showcasing my knowledge and skills.</sub>
+  <sub>I use this GitHub to keep track of my career, showcasing my knowledge and skills.</sub>
 </p>
