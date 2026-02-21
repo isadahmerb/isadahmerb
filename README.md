@@ -15,9 +15,9 @@
 </p>
 
 <details>
-<summary>💾 College</summary>
+<summary>🎓 College</summary>
 
-- 🔸 [A3 Primeiro Semestre: Aplicação em Java](link-do-repo)
-- 🔸 [A3 Terceiro Semestre: GameDev](link-do-repo)
+- 🔸 [Aplicação em Java: Gestão de estoque|Inventory Management Application in Java ](https://github.com/JoaoHenriqueProg/A3-EmprestimoDeFerramentas)
+- 🔸 [GameDev](https://github.com/y-leandro/Trabalho-A3-gamedev)
 
 </details>
