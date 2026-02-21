@@ -6,8 +6,8 @@
 
 ### I'm Isa
  <ul>
-  <li> 20y. </li>
-  <li> Computer Science Student. </li>
+  <li>20y. </li>
+  <li>Computer Science Student.</li>
  </ul>
 
 <p align="left">
