@@ -17,7 +17,11 @@
 <details>
 <summary>🎓 College</summary>
 
+  dhaklsdhajkls
+  
 - 🔸 [Aplicação em Java: Gestão de estoque | Inventory Management Application in Java ](https://github.com/JoaoHenriqueProg/A3-EmprestimoDeFerramentas)
 - 🔸 [GameDev](https://github.com/y-leandro/Trabalho-A3-gamedev)
+
+<summary>Personal Projects</summary>
 
 </details>
