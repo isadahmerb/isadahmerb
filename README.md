@@ -16,7 +16,11 @@
 
 <details>
 <summary>🎓 College</summary>
-  Projects made during college time.  
+<p align="left">
+  <subProjects made during college time.</sub>
+  </p>
+
+
 - 🔸 [Aplicação em Java: Gestão de estoque | Inventory Management Application in Java ](https://github.com/JoaoHenriqueProg/A3-EmprestimoDeFerramentas)
 - 🔸 [GameDev](https://github.com/y-leandro/Trabalho-A3-gamedev)
 </details>
