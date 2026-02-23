@@ -25,10 +25,9 @@
 </details>
 
 <details>
-<summary>🪢 Personal Projects</summary>
-  
-  Projects made during the process of learning new languages and features.
-C 
+<summary>💾 Personal Projects</summary>
+  <sub>Projects made during the process of learning new languages and features.</sub>
+    ### C 
 - 🔹[Login Screen](https://github.com/isadahmerb/LoginScreenC)
 
 </details>
