@@ -19,10 +19,12 @@
   Projects made during college time.  
 - 🔸 [Aplicação em Java: Gestão de estoque | Inventory Management Application in Java ](https://github.com/JoaoHenriqueProg/A3-EmprestimoDeFerramentas)
 - 🔸 [GameDev](https://github.com/y-leandro/Trabalho-A3-gamedev)
+</details>
 
+<details>
 <summary>Personal Projects</summary>
   Projects made during the process of learning new languages and features.
 C 
-- 🔹[Login Screen]()
+- 🔹[Login Screen](https://github.com/isadahmerb/LoginScreenC)
 
 </details>
