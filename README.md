@@ -30,7 +30,7 @@
   <sub>Projects made during the process of learning new languages and features.</sub>
     <hr>
     
-- 🔹 [Number Guessing Game in Python](https://github.com/isadahmerb/numberGuessing)
+- 🔹 [Sistema de notas em python](https://github.com/isadahmerb/menunotas)
 - 🔹 [Beginner C Projects](https://github.com/isadahmerb/projeCts)
 - 🔹 [Bank Management System in C ](https://github.com/isadahmerb/CBank_ManagementSystem)
 </details>
