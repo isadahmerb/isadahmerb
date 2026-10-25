@@ -16,7 +16,7 @@
 
 <details>
   
-<summary>🎓 College</summary>
+<Title>🎓 College</Title>
 
   <sub>Projects made during college time.</sub>
     <hr>
@@ -26,7 +26,7 @@
 
 <details>
   
-<summary>💾 Personal Projects</summary>
+<Title>💾 Personal Projects</Title>
   <sub>Projects made during the process of learning new languages and features.</sub>
     <hr>
     
