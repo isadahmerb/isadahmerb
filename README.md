@@ -24,5 +24,5 @@
 - 🔹 [Sistema de notas em python](https://github.com/isadahmerb/menunotas)
 - 🔹 [Beginner C Projects](https://github.com/isadahmerb/projeCts)
 - 🔹 [Bank Management System in C ](https://github.com/isadahmerb/CBank_ManagementSystem)
-- 🔹 [TF-IDF](https://github.com/isadahmerb/CBank_ManagementSystem)
+- 🔹 [TF-IDF](https://github.com/isadahmerb/TermFrequency-InverseDocumentFrequency)
 
