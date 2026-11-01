@@ -14,17 +14,15 @@
   <sub>I use this GitHub to keep track of my career, showcasing my knowledge and skills.</sub>
 </p>
   
-<Title>🎓 College</Title>
-
+## 🎓 College
   <sub>Projects made during college time.</sub>
     <hr>
 - 🔸 [Aplicação em Java: Gestão de estoque | Inventory Management Application in Java ](https://github.com/JoaoHenriqueProg/A3-EmprestimoDeFerramentas)
 - 🔸 [GameDev](https://github.com/y-leandro/Trabalho-A3-gamedev)
   
-<Title>💾 Personal Projects</Title>
+## 💾 Personal Projects
   <sub>Projects made during the process of learning new languages and features.</sub>
     <hr>
-    
 - 🔹 [Sistema de notas em python](https://github.com/isadahmerb/menunotas)
 - 🔹 [Beginner C Projects](https://github.com/isadahmerb/projeCts)
 - 🔹 [Bank Management System in C ](https://github.com/isadahmerb/CBank_ManagementSystem)
