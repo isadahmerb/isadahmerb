@@ -18,6 +18,7 @@
   <sub>Projects made during college time.</sub>
 - 🔸 [Aplicação em Java: Gestão de estoque | Inventory Management Application in Java ](https://github.com/JoaoHenriqueProg/A3-EmprestimoDeFerramentas)
 - 🔸 [GameDev](https://github.com/y-leandro/Trabalho-A3-gamedev)
+- 🔸 [Watts - Chatbot IA ](https://github.com/isadahmerb/Watts)
   
 ### 💾 Personal Projects
   <sub>Projects made during the process of learning new languages and features.</sub>
