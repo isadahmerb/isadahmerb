@@ -6,7 +6,7 @@
 
 ### I'm Isa
  <ul>
-  <li>20y. </li>
+  <li>Intern at Axia Energia</li>
   <li>Computer Science Student.</li>
  </ul>
 
